@@ -1,4 +1,4 @@
-![Freedom Maps](images/freedom-maps.png)
+
 # Freedom House Data Visualization 🌍
 
 ![Freedom Maps](https://raw.githubusercontent.com/zafariabbas68/Freedom-House-Map/main/images/freedom-maps.png)
