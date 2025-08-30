@@ -54,3 +54,4 @@ logs/
 # Temporary files
 temp/
 tmp/
+.ipynb_checkpoints/
